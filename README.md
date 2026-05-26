@@ -47,5 +47,3 @@ The demo accession is `SRR390728` (small, public, finishes fast). The count matr
 
 * Count matrix: [GSE251845](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE251845).
 * Paired-end FASTQ subsets: [statOmics SGA2019 airway data](https://github.com/statOmics/SGA2019/tree/data-rnaseq/airway/fastQ).
-
-This workshop is part of the McGill Initiative in Computational Medicine.
