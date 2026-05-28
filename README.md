@@ -37,6 +37,9 @@ If it fails on your machine, do not panic. Come a few minutes early and we will 
 ## Exercises
 
 * `Exercises/answers/Exercise1_unix.sh` — directory tree, file creation, `seq`, `mv`, concatenation.
+* `Exercises/answers/Exercise_grep.sh` — `grep` on `happiness.csv`: plain match, `-w`, `-v`, `-n`.
+* `Exercises/answers/Exercise_wordle.sh` — mini-capstone: solve today's Wordle with `cat | tr | egrep` over `/usr/share/dict/words`.
+* `Exercises/answers/Exercise_awk_fastq.sh` — `awk` on the paired-end FASTQ subset: read count, average length, GC%, N filtering, top 5' hexamers.
 * `Exercises/answers/Exercise2_geo_download.sh` — `wget` for a GEO supplementary file and an ENA FASTQ, then `fastq-dump -X 10000` for a capped SRA pull.
 * `Exercises/answers/Exercise3_1_counts_csv.sh` — inspecting the gzipped count matrix from GSE251845.
 * `Exercises/answers/Exercise3_2_fastq.sh` — counting reads, hexamer bias, motif search, and safely subsetting a FASTQ.

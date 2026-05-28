@@ -21,7 +21,7 @@ if [ "$OS" = "mac" ]; then
     done
 else
     sudo apt-get update -y
-    sudo apt-get install -y curl wget gzip tar grep gawk sed sra-toolkit
+    sudo apt-get install -y curl wget gzip tar grep gawk sed sra-toolkit wamerican
 fi
 
 mkdir -p ~/workshop/data
